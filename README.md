@@ -9,7 +9,7 @@
 
 | 01. 3D 입체 인트로 (스플래시) | 02. 실시간 날씨 추천 탭 | 03. 내 옷으로 추천 (큐레이션 뷰) |
 | :---: | :---: | :---: |
-| ![인트로](screenshots/door_screenshot.png) | ![추천 탭](screenshots/maintap_screenshot.png) | ![내 옷 추천](screenshots/myrecommend_screenshot.png) |
+| ![인트로](screenshots/dor_screenshot.png) | ![추천 탭](screenshots/maintap_screenshot.png) | ![내 옷 추천](screenshots/myrecommend_screenshot.png) |
 
 | 04. 아카이브 클로젯 탭 | 05. OOTD 다이어리 일기장 탭 | 06. 마이 페이지 (친구 인터랙션) |
 | :---: | :---: | :---: |
